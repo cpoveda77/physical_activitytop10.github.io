@@ -1,0 +1,218 @@
+/*font-family: 'Shadows Into Light', cursive;
+font-family: 'PT Sans Caption', sans-serif; 
+font-family: 'Patua One', cursive;
+font-family: 'Josefin Sans', sans-serif;*/
+
+
+#contenidos{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	
+}
+
+#galeria{
+	margin-top: 10px;
+	border-radius: 10px;
+}
+
+#perros{
+	margin-top: 10px;
+	border-radius: 10px;
+}
+
+#gatos{
+	margin-top: 10px;
+	border-radius: 10px;
+}
+
+#formulario{
+	padding: 20px;
+	background: grey;
+	background: rgba(255, 255, 255, 0);
+	width: 600px;
+	margin: auto;
+
+}
+
+div.linea-formulario{
+	overflow: hidden;
+	margin-bottom: 10px;
+}
+
+input,select{
+	padding: 3px;
+}
+
+select{
+	width: 150px;
+}
+
+form{
+	border: 2px solid gremm;
+	padding: 10px;
+	border-radius: 4px;
+}
+
+label{
+	float: left;
+	width: 70px;
+}
+
+input[type="text"] {
+	width: 250px;
+}
+
+#botones{
+	background: grey;
+	padding: 10px;
+}
+
+#botones input {
+	font-weight: bold;
+	width: 200px;
+}
+
+#enlace{
+	float: right;
+	padding-right: 50px;
+}
+
+
+
+/*ETIQUETAS*/
+
+body{
+	background-image: url("../images/fondo.jpg");
+    background-repeat: repeat;
+    background-position: right top;
+
+}
+
+h1{
+font-family: 'Shadows Into Light', cursive; 
+color: black;
+font-size: 20px;
+text-align: center;	
+}
+
+h2{
+	font-family: 'Josefin Sans', sans-serif;
+	color: black;
+	margin-left: 10px;
+	font-size: 18px;
+	text-align: left;
+}
+
+h3{
+font-family: 'Shadows Into Light', cursive; 
+color: black;
+font-size: 18px;
+text-align: center;	
+}
+
+
+
+header{
+	width: 1000px;
+	height: 180px;
+	background: rgba(255, 255, 255, 3,5); 
+}
+
+
+nav{
+	width: 1000px;
+	height: 60px;
+	background: white;
+	border-radius: 10px; 
+}
+
+ul{
+	margin: left;
+	padding-top: 2px;
+}
+
+
+li{
+	background: pink  ;
+	margin: 3px;
+	border-radius: 10px; 
+	box-shadow: 0 0 30px fuchsia inset; 
+	float: left; 
+	list-style-type: none;
+	padding: 10px; 
+}
+
+section {
+	width: 700px;
+	background: white;
+	height: 600px;
+	float: left;
+	margin-top: 20px;
+	border-radius: 10px;
+}
+
+aside{
+	width: 280px;
+	background: white;
+	height: 600px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+	border-radius: 10px;
+}
+
+footer{
+	width: 1000px;
+	height: 50px;
+	background: white;
+	float: left;
+	margin-top: 20px;
+	border-radius: 10px;
+	margin-bottom: 20px;
+}
+
+p{
+	font-family: 'Patua One', cursive; 
+	font-size: 18px;
+	line-height: 20px;
+	padding: 10px;
+	text-align: justify;
+
+}
+
+hr {
+	border: 3px dashed green; 
+	height:0;
+	width: 80%;
+
+}
+
+a{
+	text-decoration: none;
+}
+
+
+
+IMG.Aliados{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px;
+    border-radius: 10px;
+}
+
+.imagen2{
+	width: 1000px;
+    height: 190px;
+    border-radius: 10px;
+}
+.ancho_menu_home{width: 900px;}
+.ancho_menu_paginas{width: 970px;}
+
+.menu:link{ color: white; text-decoration: none;} 
+.menu:visited{ color: white; text-decoration: none;}
+.menu:hover{ color: white; text-decoration: none; text-shadow: 0 0 10px black;} 
+.menu:active{ color: white; text-decoration: none;}
+
